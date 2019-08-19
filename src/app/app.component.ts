@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-form-with-dynamically-added-fields';
+  title = 'Angular Form with Dynamically Added Fields';
 }
