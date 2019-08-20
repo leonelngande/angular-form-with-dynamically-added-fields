@@ -6,6 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
+    "publish-github": "ng build --prod --base-href 'https://leonelngande.github.io/angular-form-with-dynamically-added-fields/' && ngh --dir=dist/angular-form-with-dynamically-added-fields",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
